@@ -2,8 +2,9 @@
 This repository contains a Tableau dashboard designed to analyze and forecast sales performance using historical data. The dashboard offers visual insights into sales trends, seasonal patterns, and future sales predictions.
 
 # Live Dashboard
-You can view the interactive version of the dashboard on Tableau Public here:  
+You can view the interactive version of the dashboard on Tableau Public here:c  
 (https://public.tableau.com/app/profile/om4032/viz/SalseForecastingAnalysis/Dashboard1)
+Or see the embedded version in the [`index.html`](index.html) file.
 
 # Project Overview
 Tool Used: Tableau Public
