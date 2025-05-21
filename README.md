@@ -4,7 +4,6 @@ This repository contains a Tableau dashboard designed to analyze and forecast sa
 # Live Dashboard
 You can view the interactive version of the dashboard on Tableau Public here:  
 (https://public.tableau.com/app/profile/om4032/viz/SalseForecastingAnalysis/Dashboard1)
-Or see the embedded version in the index.html file.
 
 # Project Overview
 Tool Used: Tableau Public
@@ -17,7 +16,6 @@ Key Features:
 
 # Files in this Repository
 Sales Forecasting Analysis.twbx: Tableau workbook file
-index.html: HTML file with embedded interactive Tableau dashboard
 README.md: Project documentation
 
 # Getting Started
