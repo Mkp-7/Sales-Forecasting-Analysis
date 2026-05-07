@@ -1,8 +1,8 @@
 # Sales Analysis & Dashboard
-This repository contains a **Power BI dashboard** designed to analyze and visualize sales performance across multiple regions and products. The dashboard provides actionable insights to support business decision-making and strategy optimization.
+This repository contains a **Power BI & Tableau dashboards** designed to analyze and visualize sales performance across multiple regions and products. The dashboard provides actionable insights to support business decision-making and strategy optimization. The dashboard offers visual insights into sales trends, seasonal patterns, and future sales predictions.
 
 ## Project Overview
-- **Tools Used:** Python, SQL, Power BI Desktop  
+- **Tools Used:** Python, SQL, Power BI Desktop, Tableau  
 - **Goal:** Analyze 150,000+ sales transactions to identify trends, profitability gaps, and regional performance insights.  
 - **Key Features:**  
   - Product-level and regional sales analysis  
@@ -15,15 +15,21 @@ This repository contains a **Power BI dashboard** designed to analyze and visual
 - Identified underperforming regions and revenue gaps, enabling targeted interventions.  
 
 ## Files in this Repository
-- `Sales_Analysis_Dashboard.pbix`: Power BI dashboard file  
+- `Sales_Analysis_Dashboard.pbix`: Power BI dashboard file
+- `Sales Forecasting Analysis.twbx`: Tableau workbook file
 - `Dashboard Images`: Screenshots of dashboards for quick viewing  
 - `README.md`: Project documentation  
  
 
-## Getting Started
-To view and interact with the dashboard locally:  
-1. Download the `.pbix` file.  
-2. Open it using **Power BI Desktop** (free version).  
+# Live Dashboard
+You can view the interactive version of the dashboard on Tableau Public here:c  
+(https://public.tableau.com/app/profile/om4032/viz/SalseForecastingAnalysis/Dashboard1)
+Or see the embedded version in the [`index.html`](index.html) file.
+
+# Getting Started
+To view the dashboard locally:
+1. Open the SalesForecasting.twbx file using Tableau Desktop or Tableau Public.
+2. Alternatively, open index.html in your browser to view the embedded dashboard.
 
 ## Author
 Mukund Patel
