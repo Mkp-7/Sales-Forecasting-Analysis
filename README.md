@@ -1,31 +1,29 @@
-# Sales-Forecasting-Analysis
-This repository contains a Tableau dashboard designed to analyze and forecast sales performance using historical data. The dashboard offers visual insights into sales trends, seasonal patterns, and future sales predictions.
+# Sales Analysis & Dashboard
+This repository contains a **Power BI dashboard** designed to analyze and visualize sales performance across multiple regions and products. The dashboard provides actionable insights to support business decision-making and strategy optimization.
 
-# Live Dashboard
-You can view the interactive version of the dashboard on Tableau Public here:c  
-(https://public.tableau.com/app/profile/om4032/viz/SalseForecastingAnalysis/Dashboard1)
-Or see the embedded version in the [`index.html`](index.html) file.
+## Project Overview
+- **Tools Used:** Python, SQL, Power BI Desktop  
+- **Goal:** Analyze 150,000+ sales transactions to identify trends, profitability gaps, and regional performance insights.  
+- **Key Features:**  
+  - Product-level and regional sales analysis  
+  - Profitability analysis across 17 regions using a dynamic profit threshold parameter  
+  - Interactive dashboards for marketing and customer retention strategy  
+  - Exportable PDF reports and visual snapshots  
 
-# Project Overview
-Tool Used: Tableau Public
-Goal: Analyze historical sales data and forecast future trends
-Key Features:
-  Sales trends over time
-  Regional and product-based breakdowns
-  Forecasts using built-in Tableau time series analysis
-  Interactive filters for custom exploration
+## Impact
+- Guided business strategy adjustments, resulting in a **20% increase in sales efficiency**.  
+- Identified underperforming regions and revenue gaps, enabling targeted interventions.  
 
-# Files in this Repository
-Sales Forecasting Analysis.twbx: Tableau workbook file
-README.md: Project documentation
+## Files in this Repository
+- `Sales_Analysis_Dashboard.pbix`: Power BI dashboard file  
+- `Dashboard Images`: Screenshots of dashboards for quick viewing  
+- `README.md`: Project documentation  
+ 
 
-# Getting Started
-To view the dashboard locally:
-1. Open the SalesForecasting.twbx file using Tableau Desktop or Tableau Public.
-2. Alternatively, open index.html in your browser to view the embedded dashboard.
+## Getting Started
+To view and interact with the dashboard locally:  
+1. Download the `.pbix` file.  
+2. Open it using **Power BI Desktop** (free version).  
 
-# Author
-Mukund Patel  
-
-# License
-This project is licensed under the [MIT License](LICENSE).
+## Author
+Mukund Patel
